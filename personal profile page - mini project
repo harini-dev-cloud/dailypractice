@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <title>harini profile</title>
+    </head>
+  <body>
+    <h1> my profile</h1>
+<p><strong>name:</strong>k.Harini</p>
+<p><strong>course:</strong>btech</p>
+<p><strong>brach:</strong>ECE</p>
+<p><strong>register no:</strong>232p1a0477</p>
+    <hr>
+    <h2>about me</h2>
+     <p> I am a b.tech student at cbit,proddatur,with hands on experience in html ,css,js,c,python.i am actively partcipate in hackthons,workshops,interships.</p>
+    <h2>skills:</h2>
+    <ul>
+      <li>html</li>
+      <li>css</li>
+      <li>python</li>
+      </ul>
+      <h2>hobbies</h2>
+      <ul>
+      <li>reading</li>
+      <li>listening music</li>
+        </ul>
+      <hr>
+      <p> thank you,visiting my profile</p>
+        </body>
+</html>

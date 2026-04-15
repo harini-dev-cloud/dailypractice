@@ -1,0 +1,89 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Food Hub</title>
+</head>
+<body>
+    <h1 align="center">My Food Hub 🍔</h1>
+    <p align="center">Delicious Food at Your Doorstep</p>
+    <hr>
+    <h2>Our Specials</h2>
+    <img src="https://via.placeholder.com/150" alt="Pizza">
+    <img src="https://via.placeholder.com/150" alt="Burger">
+    <img src="https://via.placeholder.com/150" alt="Biryani">
+    <h2>Menu Items</h2>
+    <ul>
+        <li>Pizza</li>
+        <li>Burger</li>
+        <li>Biryani</li>
+        <li>Ice Cream</li>
+    </ul>
+    <h3>How to Order</h3>
+    <ol>
+        <li>Select Food</li>
+        <li>Add to Cart</li>
+        <li>Place Order</li>
+    </ol>
+    <h2>Menu Table</h2>
+    <table border="1">
+        <tr>
+            <th>Food</th>
+            <th>Price</th>
+            <th>Available</th>
+        </tr>
+        <tr>
+            <td>Pizza</td>
+            <td>₹200</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>Burger</td>
+            <td>₹100</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>Biryani</td>
+            <td>₹250</td>
+            <td>No</td>
+        </tr>
+    </table>
+    <h2>Background Music</h2>
+    <audio controls>
+        <source src="sample.mp3" type="audio/mpeg">
+    </audio>
+        <h2>Cooking Video</h2>
+    <video width="300" controls>
+        <source src="sample.mp4" type="video/mp4">
+    </video>
+  <h2>Order Now</h2>
+    <form>
+      Name:<br>
+      <input type="text"><br><br>
+      phone:<br>
+      <input type="number"><br><br>
+      address:<br>
+      <textarea rows="3" colms="30"></textarea><br><br>
+      select food:<br>
+      <select>
+        <optional>biryani</optional>
+        <optional>burger</optional>
+        <optional>pizza</optional>
+        <optional>icecream</optional>
+      </select><br><br>
+      quality:<br>
+      <input type="number"><br><br>
+      payment:<br>
+      <input type="radio" name="pay">cash
+      <input type="radio" name="pay">online<br><br>
+      extra:<br>
+      <input type="checkbox">extra cheese
+      <input type="checkbox">cold drink<br><br>
+      <input type="submit" value="place order">
+      </form>
+      <h3>visit food apps</h3>
+      <a href="http://www.zomoto.com" target="blank">go to zomzto</a>
+      <hr>
+      <p align="center">2026 my food hub</p>
+      </body>
+      </html>
